@@ -45,5 +45,6 @@
 9. `docs/spec/07-data-model.md`（DDL + 索引 + 分库/冷热/草稿表）
 10. `docs/spec/08-milestones.md`（M0a→M4 + 门禁测试）
 11. `docs/HOT_FIELDS.md`（JSON 热字段投影清单）
-12. `docs/cards/*`（模块卡片，按需阅读）
-13. `docs/adr/*`（架构决策记录，按需阅读）
+12. `docs/spec/11-docs-frontend.md`（文档前端与构建计划）
+13. `docs/cards/*`（模块卡片，按需阅读）
+14. `docs/adr/*`（架构决策记录，按需阅读）
